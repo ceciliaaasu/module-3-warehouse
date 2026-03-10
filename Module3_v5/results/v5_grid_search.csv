@@ -1,0 +1,16 @@
+algorithm,w_total_comp,w_makespan,w_circulations,avg_score,type
+Random Baseline,0.34,0.33,0.33,0.433000,philosophy
+Shortest Order First,0.7,0.15,0.15,0.385000,philosophy
+Load Balanced,0.15,0.7,0.15,0.786875,philosophy
+Tote-Aware Clustering,0.15,0.15,0.7,0.398750,philosophy
+Wave Batching,0.4,0.35,0.25,0.426875,philosophy
+Random Baseline,0.15,0.75,0.1,0.410000,optimized
+Shortest Order First,0.8,0.1,0.1,0.365000,optimized
+Load Balanced,0.1,0.1,0.8,0.642500,optimized
+Tote-Aware Clustering,0.8,0.1,0.1,0.360000,optimized
+Wave Batching,0.1,0.8,0.1,0.346250,optimized
+Random Baseline,0.1,0.7,0.2,0.420000,universal
+Shortest Order First,0.1,0.7,0.2,0.480000,universal
+Load Balanced,0.1,0.7,0.2,0.770000,universal
+Tote-Aware Clustering,0.1,0.7,0.2,0.470000,universal
+Wave Batching,0.1,0.7,0.2,0.360000,universal

@@ -1,0 +1,51 @@
+seed,algorithm,total_completion_time,makespan,circulations
+777,Random Baseline,560.00,110.00,0
+777,Shortest Order First,547.00,114.00,3
+777,Load Balanced,685.00,159.00,10
+777,Tote-Aware Clustering,564.00,119.00,3
+777,Wave Batching,564.00,110.00,0
+42,Random Baseline,371.00,94.00,0
+42,Shortest Order First,365.00,94.00,0
+42,Load Balanced,493.00,105.00,2
+42,Tote-Aware Clustering,359.00,103.00,0
+42,Wave Batching,453.00,96.00,1
+100,Random Baseline,371.00,75.00,2
+100,Shortest Order First,337.00,82.00,2
+100,Load Balanced,395.00,94.00,0
+100,Tote-Aware Clustering,390.00,82.00,2
+100,Wave Batching,328.00,80.00,0
+200,Random Baseline,295.00,63.00,0
+200,Shortest Order First,319.00,78.00,3
+200,Load Balanced,328.00,70.00,0
+200,Tote-Aware Clustering,313.00,73.00,0
+200,Wave Batching,325.00,67.00,0
+612,Random Baseline,382.00,97.00,3
+612,Shortest Order First,324.00,91.00,0
+612,Load Balanced,491.00,113.00,2
+612,Tote-Aware Clustering,392.00,93.00,0
+612,Wave Batching,406.00,89.00,0
+888,Random Baseline,451.00,103.00,0
+888,Shortest Order First,473.00,108.00,6
+888,Load Balanced,545.00,124.00,3
+888,Tote-Aware Clustering,456.00,100.00,0
+888,Wave Batching,541.00,125.00,7
+999,Random Baseline,508.00,97.00,4
+999,Shortest Order First,417.00,91.00,0
+999,Load Balanced,521.00,102.00,4
+999,Tote-Aware Clustering,381.00,95.00,0
+999,Wave Batching,486.00,115.00,6
+1111,Random Baseline,309.00,74.00,0
+1111,Shortest Order First,326.00,82.00,2
+1111,Load Balanced,305.00,68.00,0
+1111,Tote-Aware Clustering,289.00,65.00,0
+1111,Wave Batching,291.00,64.00,0
+2025,Random Baseline,209.00,54.00,0
+2025,Shortest Order First,213.00,54.00,0
+2025,Load Balanced,304.00,67.00,1
+2025,Tote-Aware Clustering,214.00,54.00,0
+2025,Wave Batching,253.00,50.00,0
+2026,Random Baseline,454.00,107.00,6
+2026,Shortest Order First,402.00,95.00,2
+2026,Load Balanced,433.00,101.00,0
+2026,Tote-Aware Clustering,418.00,102.00,2
+2026,Wave Batching,398.00,93.00,0

@@ -1,0 +1,10 @@
+metric,value
+v4_winner,Random Baseline
+v4_winner_wins,3
+v5_winner,Wave Batching
+v5_winner_wins_universal,5
+universal_weights,"(0.10,0.70,0.20)"
+universal_best_avg_score,0.360000
+num_seeds,10
+grid_size,120
+winner_changed_v4_to_v5,YES

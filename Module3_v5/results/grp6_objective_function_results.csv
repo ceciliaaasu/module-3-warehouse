@@ -1,0 +1,16 @@
+﻿Dataset,Algorithm,w1 (total comp),w2 (makespan),w3 (circulations),Total Completion,Makespan,Circulations,norm_TC,norm_Makespan,norm_Circs,Score
+"Small (6 orders, 4 totes)",Tote-Aware Clustering,0.15,0.15,0.7,284.0,61.0,0,0.0,0.0,0.0,0.0
+"Small (6 orders, 4 totes)",Random Baseline,0.34,0.33,0.33,285.0,61.0,2,0.0244,0.0,1.0,0.3383
+"Small (6 orders, 4 totes)",Shortest Order First,0.7,0.15,0.15,287.0,62.0,2,0.0732,0.05,1.0,0.2087
+"Small (6 orders, 4 totes)",Wave Batching,0.4,0.35,0.25,294.0,67.0,1,0.2439,0.3,0.5,0.3276
+"Small (6 orders, 4 totes)",Load Balanced,0.15,0.7,0.15,325.0,81.0,0,1.0,1.0,0.0,0.85
+"Medium (10 orders, 8 totes)",Tote-Aware Clustering,0.15,0.15,0.7,866.0,140.0,3,0.2837,0.0,0.2222,0.1981
+"Medium (10 orders, 8 totes)",Random Baseline,0.34,0.33,0.33,927.0,146.0,1,0.5674,0.375,0.0,0.3167
+"Medium (10 orders, 8 totes)",Load Balanced,0.15,0.7,0.15,1020.0,149.0,1,1.0,0.5625,0.0,0.5437
+"Medium (10 orders, 8 totes)",Shortest Order First,0.7,0.15,0.15,805.0,156.0,9,0.0,1.0,0.8889,0.2833
+"Medium (10 orders, 8 totes)",Wave Batching,0.4,0.35,0.25,959.0,156.0,10,0.7163,1.0,1.0,0.8865
+"Large (25 orders, 19 totes)",Load Balanced,0.15,0.7,0.15,6763.0,380.0,133,0.7092,0.0,0.084,0.119
+"Large (25 orders, 19 totes)",Random Baseline,0.34,0.33,0.33,5821.0,382.0,122,0.2877,0.0571,0.0,0.1167
+"Large (25 orders, 19 totes)",Shortest Order First,0.7,0.15,0.15,5178.0,384.0,190,0.0,0.1143,0.5191,0.095
+"Large (25 orders, 19 totes)",Wave Batching,0.4,0.35,0.25,6065.0,395.0,175,0.3969,0.4286,0.4046,0.4099
+"Large (25 orders, 19 totes)",Tote-Aware Clustering,0.15,0.15,0.7,7413.0,415.0,253,1.0,1.0,1.0,1.0
