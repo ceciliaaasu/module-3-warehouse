@@ -1,5 +1,5 @@
 # MSE 433 — Module 3: Warehousing Conveyor Simulation
-## Group 6 | Multi-Objective Algorithm Optimization (V5)
+## Group 6 | Multi-Objective Algorithm Optimization
 
 ---
 
